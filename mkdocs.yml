@@ -1,1 +1,8 @@
+site_name: xiahy23's simple calculator
 
+nav:
+  - index.md
+  - quickstart.md
+
+theme:
+  name: material
